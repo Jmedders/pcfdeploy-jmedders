@@ -1,0 +1,4 @@
+  applications:
+  - name: pcfdeploy-[your user name]
+    memory: 256M
+    buildpack: https://github.com/cloudfoundry/nodejs-buildpack
